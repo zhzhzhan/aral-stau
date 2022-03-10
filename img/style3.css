@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-nav{
+    display: flex;
+    align-items: center;
+}
+li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a{
+text-decoration: none;
+}
+.logo {
+
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
